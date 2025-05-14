@@ -44,8 +44,9 @@ width: 100%;
 
 .service {
     background-color: #005ea8;
-    padding: 15px;
-    border-radius: 10px;
+  color: white;
+  padding: 15px;
+  border-radius: 10px;
 }
 
 .service img {
