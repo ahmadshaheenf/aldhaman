@@ -43,10 +43,13 @@ width: 100%;
 }
 
 .service {
-    background-color: #005ea8;
-  color: white;
+  background-color: #005ea8;
   padding: 15px;
   border-radius: 10px;
+}
+
+.service span {
+  color: white;
 }
 
 .service img {
