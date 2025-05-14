@@ -20,11 +20,12 @@ header {
 .hero img {
 width: 100%;
   max-width: 100%;
-  height: 180px; /* ارتفاع ثابت يعطي شكل مستطيل */
-  object-fit: cover; /* حتى تمتلئ الصورة بشكل جميل */
+  height: 180px;
+  object-fit: cover;
+  object-position: top; /* هذا يرفع الصورة لفوق */
   display: block;
   margin: 20px auto;
-  border-radius: 10px; /* زوايا ناعمة */
+  border-radius: 10px;
 }
 
 .services {
